@@ -1,0 +1,1 @@
+# Litmag WordPress theme
